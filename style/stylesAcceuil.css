@@ -104,13 +104,13 @@ body {
 }
 
 .cloud-left {
-    background-image: url('/img/nuage-1_11zon.webp');
+    background-image: url('/YAE-GAMES-SAE402/img/nuage-1_11zon.webp');
     left: -30%;
     animation: enterLeft 4s forwards 1.5s;
 }
 
 .cloud-right {
-    background-image: url('/img/nuage 2_11zon.webp');
+    background-image: url('/YAE-GAMES-SAE402/img/nuage-2_11zon.webp');
     left: -30%;
     animation: enterRight 5s forwards 2s;
 }
